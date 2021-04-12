@@ -26,4 +26,4 @@ PS:个人觉得比`Ant Design`+`UmiJS`好用
 # 项目展示地址
 [luckyapp](http://39.107.226.153/)
 # lucky_web
-[lucky_web](https://github.com/1431241631/lucky_web)
+[lucky_web](https://github.com/1431241631/lucky-web)
